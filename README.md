@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dassanghamitra
-- 👀 I’m interested in Web technologies, Data Sceince, CICD and fitness, travel , hiking, photography , reading
+- 👀 I’m interested in Web technologies, Data Science, CICD and fitness, travel , hiking, photography , reading
 - 🌱 I’m currently learning Python, Data Science, Business Analytics
 - 📫 How to reach me ... das.sanghamitra@gmail.com
 
